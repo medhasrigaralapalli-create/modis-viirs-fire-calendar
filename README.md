@@ -3,7 +3,7 @@
 **Team:** The Cosmic Coders (Hyderabad) · NASA Space Apps Challenge 2026
 **Challenge:** Harmonization of MODIS and VIIRS Hot Spots
 
-**Live dashboard:** [paste your GitHub Pages link here]
+**Live dashboard:** https://medhasrigaralapalli-create.github.io/modis-viirs-fire-calendar/
 **Demo slides:** https://docs.google.com/presentation/d/1uX2DfzrS0NdAHcLakdiZ8SIofN8ZkOht/edit?usp=sharing&ouid=111759685376896790355&rtpof=true&sd=true
 
 ## The problem
