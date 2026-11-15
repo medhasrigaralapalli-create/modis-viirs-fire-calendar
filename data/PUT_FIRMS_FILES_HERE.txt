@@ -1,0 +1,1 @@
+Put your FIRMS zip or csv files here (MODIS + VIIRS NOAA-20 / NOAA-21), then run: python run.py
