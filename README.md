@@ -4,7 +4,7 @@
 **Challenge:** Harmonization of MODIS and VIIRS Hot Spots
 
 **Live dashboard:** [paste your GitHub Pages link here]
-**Demo slides:** [paste your public slides link here]
+**Demo slides:** https://docs.google.com/presentation/d/1uX2DfzrS0NdAHcLakdiZ8SIofN8ZkOht/edit?usp=sharing&ouid=111759685376896790355&rtpof=true&sd=true
 
 ## The problem
 MODIS has recorded active fires from space since 2000 and is scheduled to end around 2026–27. VIIRS is its successor for fire detection, but it is not a drop-in replacement: its pixels are smaller (375 m vs 1 km), its overpass times differ, and its confidence values use a different scale (low / nominal / high vs 0–100). Without a bridge between the two, a fire trend could change only because the sensor changed.
@@ -58,6 +58,3 @@ Longer periods and other regions, validation against independent fire records, a
 
 ## Credits
 NASA FIRMS data, Leaflet, Esri basemap tiles, Python (pandas, NumPy).
-
-## AI use
-The team chose the problem, collected the NASA FIRMS data, and ran, tested, and interpreted all analyses. An SI (AI) assistant was used to help write the code and draft text, and the team reviewed and edited the results.
